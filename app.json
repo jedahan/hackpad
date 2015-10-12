@@ -1,0 +1,8 @@
+{
+  "name": "Hackpad",
+  "description": "A collaborative notebook",
+  "repository": "https://github.com/dropbox/hackpad",
+  "logo": "https://hackpad.com/static/apple-touch-icon-144.png",
+  "keywords": ["hackpad"]
+}
+
